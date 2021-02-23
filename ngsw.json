@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1614008823356,
-  "index": "/incometaxcalc-pwa/index.html",
+  "timestamp": 1614048751554,
+  "index": "/IncomeTaxCal-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/incometaxcalc-pwa/favicon.ico",
-        "/incometaxcalc-pwa/index.html",
-        "/incometaxcalc-pwa/main.1533bc677854c54a3d76.js",
-        "/incometaxcalc-pwa/manifest.webmanifest",
-        "/incometaxcalc-pwa/polyfills.8c151b8375e767ff858f.js",
-        "/incometaxcalc-pwa/runtime.0e49e2b53282f40c8925.js",
-        "/incometaxcalc-pwa/styles.3ff695c00d717f2d2a11.css"
+        "/IncomeTaxCal-pwa/favicon.ico",
+        "/IncomeTaxCal-pwa/index.html",
+        "/IncomeTaxCal-pwa/main.1533bc677854c54a3d76.js",
+        "/IncomeTaxCal-pwa/manifest.webmanifest",
+        "/IncomeTaxCal-pwa/polyfills.8c151b8375e767ff858f.js",
+        "/IncomeTaxCal-pwa/runtime.0e49e2b53282f40c8925.js",
+        "/IncomeTaxCal-pwa/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/incometaxcalc-pwa/assets/icons/icon-128x128.png",
-        "/incometaxcalc-pwa/assets/icons/icon-144x144.png",
-        "/incometaxcalc-pwa/assets/icons/icon-152x152.png",
-        "/incometaxcalc-pwa/assets/icons/icon-192x192.png",
-        "/incometaxcalc-pwa/assets/icons/icon-384x384.png",
-        "/incometaxcalc-pwa/assets/icons/icon-512x512.png",
-        "/incometaxcalc-pwa/assets/icons/icon-72x72.png",
-        "/incometaxcalc-pwa/assets/icons/icon-96x96.png"
+        "/IncomeTaxCal-pwa/assets/icons/icon-128x128.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-144x144.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-152x152.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-192x192.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-384x384.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-512x512.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-72x72.png",
+        "/IncomeTaxCal-pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/incometaxcalc-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/incometaxcalc-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/incometaxcalc-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/incometaxcalc-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/incometaxcalc-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/incometaxcalc-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/incometaxcalc-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/incometaxcalc-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/incometaxcalc-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/incometaxcalc-pwa/index.html": "ed764fb3ad1bf07ac91b93fe30a333bc2beae72c",
-    "/incometaxcalc-pwa/main.1533bc677854c54a3d76.js": "3fe249a2d187184453038d982e2a495ca2c43e40",
-    "/incometaxcalc-pwa/manifest.webmanifest": "b6b6d6621f2e3f54c717d6ed4a21ce96e716bc36",
-    "/incometaxcalc-pwa/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
-    "/incometaxcalc-pwa/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/incometaxcalc-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/IncomeTaxCal-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/IncomeTaxCal-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/IncomeTaxCal-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/IncomeTaxCal-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/IncomeTaxCal-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/IncomeTaxCal-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/IncomeTaxCal-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/IncomeTaxCal-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/IncomeTaxCal-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/IncomeTaxCal-pwa/index.html": "d4cdfd915e3aedc5c937ae165cfbc3400e00aa92",
+    "/IncomeTaxCal-pwa/main.1533bc677854c54a3d76.js": "3fe249a2d187184453038d982e2a495ca2c43e40",
+    "/IncomeTaxCal-pwa/manifest.webmanifest": "b6b6d6621f2e3f54c717d6ed4a21ce96e716bc36",
+    "/IncomeTaxCal-pwa/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/IncomeTaxCal-pwa/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/IncomeTaxCal-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
